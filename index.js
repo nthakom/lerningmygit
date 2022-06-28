@@ -1,0 +1,2 @@
+//first line
+console.info
