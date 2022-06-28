@@ -1,3 +1,3 @@
 # lerningmygit
 
-Read me for fwature -A
+Read me for my application
